@@ -1,0 +1,7 @@
+/target/
+.idea
+*.iml
+.DS_Store
+
+# Python script for creating keycloak test user
+create-users.py
